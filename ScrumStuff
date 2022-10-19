@@ -1,0 +1,52 @@
+Quick reference for Scrum activities for this project:
+
+PO adds the user stories to the product backlog and the whole team grooms them based on priority
+
+Sprint duration is 1 week; ends the last hour of the last class session of that calendar week.
+
+Sprint planning: Recurring 1st day of each sprint, time box for 15 minutes the first day of the sprint 
+      Revisit sprint goal; update as necessary
+      Select the Product Backlog user stories to be delivered in the sprint (includes a review/discussion of the stories/estimation)
+          Break them down as necessary to <4 hour tasks
+
+Daily Scrum/Standup: Recurring daily during sprint, time box for 15 minutes. 
+      Add a 16th minute for additional collaboration, time box for 15 more minutes and dismiss any team members not necessary for discussion
+
+The last hour of the last class day of a sprint
+      Backlog grooming: max 30 minutes, (not limited to the scope of a single sprint;
+          meant to ensure the highest priority backlog items are detailed enough and estimated so they can be used in Sprint Planning; 
+          ideally, enough stories are detailed for at least 2 sprint’s worth of work so you have enough for the next sprint 
+          plus more if you can pull additional work into the next sprint)
+      Sprint review: max 15 minutes; this is akin to acceptance testing with the customer/product owner.
+      Sprint retrospective: Remainder of the last hour (min 15 minutes). 
+          team discusses changes to daily routines, definition of done, ways to improve (e.g. training and or pair programming participants).
+          
+ Backlog Grooming (at the end of a sprint):
+The product backlog should have already been prioritized by the PO going into this exercise.
+Do you have enough stories detailed out for the next sprint? If yes, do enough for one more sprint or till time runs out.
+If no, detail out at least enough for the next sprint (even if you go over on time some). The PO and SM should take action to improve the backlog.
+Talk through each story: (also see INVEST https://www.knowledgehut.com/tutorials/scrum-tutorial/user-stories) 
+What are the words behind the words
+Risks/Constraints/relationship to other stories in list
+What is the acceptance criteria (may only need this for the main story but helpful to have it for the subtasks/substories as well)
+Can we estimate to be < 4 hours (if no, keep discussing or break into multiple stories)
+Estimate it (in hours based on definition of done)
+
+Sprint Planning (at the start of the next sprint)
+Revisit the sprint goal and adjust as necessary based on the highest priority product backlog items
+Make sure all stories associated with the sprint’s goal are estimated,
+Prioritize them within the sprint
+Add stories to the sprint backlog until the target performance estimate is reached (and no more)
+
+Sprint Review - 
+PO/Scrum Master should have a list of acceptance criteria available based on the stories selected for the sprint during sprint planning
+Step through each acceptance criteria; any feedback can be captured as a new task/story in the product backlog for the PO to prioritize. 
+These then get pulled into the next sprint's planning if high enough priority.
+Once approved, deploy the software
+
+Sprint Retrospective - 
+Everyone writes down up to 3 things the team did well and then discusses them (eliminating duplicates)
+Everyone writes down up to 3 things the team could do better and then discusses them (eliminating duplicates)
+The Scrum Master and the PO do not get to contribute but they do attend (this varies among Scrum implementations)
+The SM then tracks these items and helps the team remember them going forward.
+
