@@ -10,6 +10,19 @@ https://www.knowledgehut.com/tutorials/scrum-tutorial/user-stories)
 
 https://medium.com/chris-nielsen/sprint-burndown-charts-gone-wrong-e06382acd276
 
+
+Define UI standards to follow (e.g. display must fit on phones or computers; displays must resize automatically)
+Define coding standards to follow
+What is the architecture?
+What is the production environment?
+What is the development environment (GitHub, Trello?, ide?, )?
+What is the language? C#
+What is the technology stack?
+Define a Definition of Done (e.g. designed{e.g. sequence or interaction diagram}, built, reviewed {meets coding standards, fully implements design, follows good coding practices}, tested {happy path and all known unhappy paths}, committed {the code and the tests})
+
+Define the team’s sprint velocity (the duration is 1 week, 2 class periods plus at least 2 hours so that’s a minimum of 6 hours each person on the development team each week; eg. 9*6=54).
+
+
 PO adds the user stories to the product backlog and the whole team grooms them based on priority
 
 Sprint duration is 1 week; ends the last hour of the last class session of that calendar week.
