@@ -60,3 +60,27 @@ Everyone writes down up to 3 things the team could do better and then discusses 
 The Scrum Master and the PO do not get to contribute but they do attend (this varies among Scrum implementations)
 The SM then tracks these items and helps the team remember them going forward.
 
+Ways to exceed expectations: You don't need to do all of these, or even any of these, but the following will 
+hopefully give you some idea of what I consider exceeding expectations during the semester project:
+
+1) work more than the 6 hours per week I expect
+
+2) Be proactively collaborative (that is, answering questions others have is expected but checking around with 
+teammates or even other teams to see if there is anything you can help them with; that's exceeds)
+
+3) Follow the processes and document that you did and why you did (following the process is expected; 
+documenting that you did and why is exceeds).
+
+4) Remember that ideally another semester class will build on top of what your team does. Make it easier 
+for them to be able to do so (commenting code, documenting designs, build readme files, how to deploy, etc). 
+Anything your team struggles with should be documented for the next class so they don't. That is exceeds.
+
+5) Solicit feedback from others outside of class on what you are doing and how, e.g. show the gui and get 
+feedback on it from someone unfamiliar with the project. Even if the gui is partially done (like only the 
+tasks are displayed or you can only manually update the tasks being completed). 
+
+6. If your team (as a team) does code reviews, testing, and documentation; that is exceeds.
+
+None of the above items requires the product to be complete in order to do it. Of course, completing all the 
+functionality would be exceeds (as long as you correctly applied Agile and Scrum to do it).
+
